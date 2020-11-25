@@ -6,6 +6,11 @@
     <Authors>Vitaliy Markitanov</Authors>
     <Company>Finastra</Company>
     <Description>Console formatter for FFDC pipeline</Description>
+    <PackageProjectUrl>https://github.com/vit100/FFDCLogger</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/vit100/FFDCLogger</RepositoryUrl>
+    <RepositoryType>GIT</RepositoryType>
+    <PackageTags>FFDC Finastra</PackageTags>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
