@@ -4,7 +4,7 @@ This package registers extension method `AddFFDCJsonLogger()`, which in turn reg
 
 # How to use?
 
-1. Download package from [https://www.nuget.org/packages/FFDCLogger/](https://www.nuget.org/packages/FFDCLogger/) using instructions provided on top of the page.
+1. Download package from https://www.nuget.org/packages/FFDCLogger using instructions provided on top of [this page](https://www.nuget.org/packages/FFDCLogger/).
 2. In your projects main.cs add following
 ```
 // --main.cs--
